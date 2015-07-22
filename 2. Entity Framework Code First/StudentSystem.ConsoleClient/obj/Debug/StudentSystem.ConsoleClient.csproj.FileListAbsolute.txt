@@ -1,0 +1,14 @@
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.pdb
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\_2.Entity_Framework_Code_First.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\_2.Entity_Framework_Code_First.pdb
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.Data.pdb
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.exe
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.ConsoleClient\obj\Debug\StudentSystem.ConsoleClient.pdb

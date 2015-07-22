@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll.config
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Data.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\_2.Entity_Framework_Code_First.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\_2.Entity_Framework_Code_First.pdb
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\obj\Debug\StudentSystem.Data.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

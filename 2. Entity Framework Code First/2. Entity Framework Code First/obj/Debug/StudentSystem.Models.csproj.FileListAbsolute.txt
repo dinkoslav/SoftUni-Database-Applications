@@ -1,0 +1,5 @@
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\2. Entity Framework Code First\bin\Debug\_2.Entity_Framework_Code_First.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\2. Entity Framework Code First\bin\Debug\_2.Entity_Framework_Code_First.pdb
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\2. Entity Framework Code First\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\2. Entity Framework Code First\obj\Debug\_2.Entity_Framework_Code_First.dll
+D:\Homeworks\SoftUni\Database Applications\2. Entity Framework Code First\2. Entity Framework Code First\obj\Debug\_2.Entity_Framework_Code_First.pdb
