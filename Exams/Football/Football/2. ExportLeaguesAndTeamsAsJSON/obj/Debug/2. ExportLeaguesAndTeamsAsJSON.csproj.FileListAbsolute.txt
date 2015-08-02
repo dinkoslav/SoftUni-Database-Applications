@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\_2.ExportLeaguesAndTeamsAsJSON.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\_2.ExportLeaguesAndTeamsAsJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\_2.ExportLeaguesAndTeamsAsJSON.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\obj\Debug\2. ExportLeaguesAndTeamsAsJSON.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\obj\Debug\_2.ExportLeaguesAndTeamsAsJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\2. ExportLeaguesAndTeamsAsJSON\obj\Debug\_2.ExportLeaguesAndTeamsAsJSON.pdb

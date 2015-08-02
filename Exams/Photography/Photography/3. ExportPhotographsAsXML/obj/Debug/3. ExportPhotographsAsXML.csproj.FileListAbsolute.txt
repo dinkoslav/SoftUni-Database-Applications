@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\_3.ExportPhotographsAsXML.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\_3.ExportPhotographsAsXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\_3.ExportPhotographsAsXML.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\obj\Debug\3. ExportPhotographsAsXML.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\obj\Debug\_3.ExportPhotographsAsXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\3. ExportPhotographsAsXML\obj\Debug\_3.ExportPhotographsAsXML.pdb

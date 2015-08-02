@@ -1,0 +1,14 @@
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EFTransactions.ConsoleClient.exe.config
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\obj\Debug\EFTransactions.ConsoleClient.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EFTransactions.ConsoleClient.exe
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EFTransactions.ConsoleClient.pdb
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EFTransactions.Data.dll
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EFTransactions.Model.dll
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EFTransactions.Data.pdb
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EFTransactions.Model.pdb
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\obj\Debug\EFTransactions.ConsoleClient.exe
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.ConsoleClient\obj\Debug\EFTransactions.ConsoleClient.pdb

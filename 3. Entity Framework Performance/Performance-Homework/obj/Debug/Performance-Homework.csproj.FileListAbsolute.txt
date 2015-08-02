@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\Performance-Homework.exe.config

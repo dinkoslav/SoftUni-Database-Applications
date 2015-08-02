@@ -1,0 +1,11 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\_3.ExportFinishedGamesAsXML.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\_3.ExportFinishedGamesAsXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\_3.ExportFinishedGamesAsXML.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\obj\Debug\_3.ExportFinishedGamesAsXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\3. ExportFinishedGamesAsXML\obj\Debug\_3.ExportFinishedGamesAsXML.pdb

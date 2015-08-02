@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\_2.ExportManufacturersАndCamerasАsJSON.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\_2.ExportManufacturersАndCamerasАsJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\_2.ExportManufacturersАndCamerasАsJSON.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\obj\Debug\2. ExportManufacturersАndCamerasАsJSON.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\obj\Debug\_2.ExportManufacturersАndCamerasАsJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\2. ExportManufacturersАndCamerasАsJSON\obj\Debug\_2.ExportManufacturersАndCamerasАsJSON.pdb

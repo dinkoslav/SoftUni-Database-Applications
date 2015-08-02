@@ -1,0 +1,10 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\obj\Debug\1. EntityFrameworkMappingsDBFirst.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\obj\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\obj\Debug\_1.EntityFrameworkMappingsDBFirst.pdb

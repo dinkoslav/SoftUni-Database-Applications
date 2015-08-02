@@ -1,0 +1,11 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\_6._2.RatedMoviesByUser.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\_6._2.RatedMoviesByUser.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\_6._2.RatedMoviesByUser.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\_5.EFCodeFirstMovies.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\_5.EFCodeFirstMovies.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\obj\Debug\_6._2.RatedMoviesByUser.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.2. RatedMoviesByUser\obj\Debug\_6._2.RatedMoviesByUser.pdb

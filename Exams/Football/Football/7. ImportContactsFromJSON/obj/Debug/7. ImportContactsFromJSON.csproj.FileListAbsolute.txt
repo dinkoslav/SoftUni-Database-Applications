@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\_7.ImportContactsFromJSON.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\_7.ImportContactsFromJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\_7.ImportContactsFromJSON.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\_6.EFCodeFirstPhonebook.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\_6.EFCodeFirstPhonebook.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\obj\Debug\7. ImportContactsFromJSON.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\obj\Debug\_7.ImportContactsFromJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\7. ImportContactsFromJSON\obj\Debug\_7.ImportContactsFromJSON.pdb

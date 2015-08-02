@@ -1,0 +1,1 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\1 .EntityFrameworkMappingsDBFirst\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe.config

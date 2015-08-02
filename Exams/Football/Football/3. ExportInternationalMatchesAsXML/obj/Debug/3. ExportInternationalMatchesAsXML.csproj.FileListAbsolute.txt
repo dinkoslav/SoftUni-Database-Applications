@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\_3.ExportInternationalMatchesAsXML.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\_3.ExportInternationalMatchesAsXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\_3.ExportInternationalMatchesAsXML.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\obj\Debug\3. ExportInternationalMatchesAsXML.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\obj\Debug\_3.ExportInternationalMatchesAsXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\3. ExportInternationalMatchesAsXML\obj\Debug\_3.ExportInternationalMatchesAsXML.pdb

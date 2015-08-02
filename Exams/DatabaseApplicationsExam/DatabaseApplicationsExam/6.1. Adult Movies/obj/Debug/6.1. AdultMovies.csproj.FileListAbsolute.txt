@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\_6._1.Adult_Movies.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\_6._1.Adult_Movies.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\_6._1.Adult_Movies.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\_5.EFCodeFirstMovies.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\_5.EFCodeFirstMovies.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\obj\Debug\6.1. AdultMovies.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\obj\Debug\_6._1.Adult_Movies.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\6.1. Adult Movies\obj\Debug\_6._1.Adult_Movies.pdb

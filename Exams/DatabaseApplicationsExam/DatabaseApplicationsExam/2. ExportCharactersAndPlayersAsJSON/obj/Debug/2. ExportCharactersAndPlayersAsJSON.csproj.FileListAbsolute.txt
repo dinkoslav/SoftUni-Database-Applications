@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\_2.ExportCharactersAndPlayersAsJSON.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\_2.ExportCharactersAndPlayersAsJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\_2.ExportCharactersAndPlayersAsJSON.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\obj\Debug\2. ExportCharactersAndPlayersAsJSON.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\obj\Debug\_2.ExportCharactersAndPlayersAsJSON.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\2. ExportCharactersAndPlayersAsJSON\obj\Debug\_2.ExportCharactersAndPlayersAsJSON.pdb

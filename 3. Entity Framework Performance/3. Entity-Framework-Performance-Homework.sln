@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceHomework", "Performance-Homework\PerformanceHomework.csproj", "{7743099E-BE60-46FE-8862-8B1E99AB6BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7743099E-BE60-46FE-8862-8B1E99AB6BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7743099E-BE60-46FE-8862-8B1E99AB6BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7743099E-BE60-46FE-8862-8B1E99AB6BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7743099E-BE60-46FE-8862-8B1E99AB6BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Homeworks\SoftUni\Database Applications\5. XML in .NET\XMLBasicConcepts\Catalog\bin\Debug\Catalog.exe.config
+D:\Homeworks\SoftUni\Database Applications\5. XML in .NET\XMLBasicConcepts\Catalog\bin\Debug\Catalog.exe
+D:\Homeworks\SoftUni\Database Applications\5. XML in .NET\XMLBasicConcepts\Catalog\bin\Debug\Catalog.pdb
+D:\Homeworks\SoftUni\Database Applications\5. XML in .NET\XMLBasicConcepts\Catalog\obj\Debug\Catalog.exe
+D:\Homeworks\SoftUni\Database Applications\5. XML in .NET\XMLBasicConcepts\Catalog\obj\Debug\Catalog.pdb
+D:\Homeworks\SoftUni\Database Applications\5. XML in .NET\XMLBasicConcepts\Catalog\obj\Debug\Catalog.csprojResolveAssemblyReference.cache

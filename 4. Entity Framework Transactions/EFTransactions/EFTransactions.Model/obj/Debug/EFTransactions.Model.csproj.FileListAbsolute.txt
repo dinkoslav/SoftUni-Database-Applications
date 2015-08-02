@@ -1,0 +1,4 @@
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.Model\bin\Debug\EFTransactions.Model.dll
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.Model\bin\Debug\EFTransactions.Model.pdb
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.Model\obj\Debug\EFTransactions.Model.dll
+D:\Homeworks\SoftUni\Database Applications\EFTransactions\EFTransactions.Model\obj\Debug\EFTransactions.Model.pdb

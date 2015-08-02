@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\_4.ImportManufacturersAndLensesFromXML.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\_4.ImportManufacturersAndLensesFromXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\_4.ImportManufacturersAndLensesFromXML.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\obj\Debug\4. ImportManufacturersAndLensesFromXML.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\obj\Debug\_4.ImportManufacturersAndLensesFromXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Photography\Photography\4. ImportManufacturersAndLensesFromXML\obj\Debug\_4.ImportManufacturersAndLensesFromXML.pdb

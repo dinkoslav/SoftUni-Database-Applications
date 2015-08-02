@@ -1,0 +1,10 @@
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\PerformanceHomework.exe.config
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\PerformanceHomework.exe
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\PerformanceHomework.pdb
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\obj\Debug\PerformanceHomework.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\obj\Debug\PerformanceHomework.exe
+D:\Homeworks\SoftUni\Database Applications\3. Entity-Framework-Performance-Homework\Performance-Homework\obj\Debug\PerformanceHomework.pdb

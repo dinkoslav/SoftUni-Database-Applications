@@ -1,0 +1,11 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\_4.ImportUsersAndTheirGamesFromXML.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\_4.ImportUsersAndTheirGamesFromXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\_4.ImportUsersAndTheirGamesFromXML.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\obj\Debug\_4.ImportUsersAndTheirGamesFromXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\DatabaseApplicationsExam\DatabaseApplicationsExam\4. ImportUsersAndTheirGamesFromXML\obj\Debug\_4.ImportUsersAndTheirGamesFromXML.pdb

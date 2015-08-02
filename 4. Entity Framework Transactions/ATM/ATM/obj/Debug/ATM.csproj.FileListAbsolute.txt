@@ -1,0 +1,9 @@
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\bin\Debug\ATM.exe.config
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\bin\Debug\ATM.exe
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\bin\Debug\ATM.pdb
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\obj\Debug\ATM.exe
+D:\Homeworks\SoftUni\Database Applications\ATM\ATM\obj\Debug\ATM.pdb

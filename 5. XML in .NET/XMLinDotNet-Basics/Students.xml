@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students xmlns:students="urn:sample-org:students">
+  <student>
+    <name>Ivan</name>
+    <gender>Male</gender>
+    <birthdate>10-12-1988</birthdate>
+    <phone_number>+359877878712</phone_number>
+    <email>ivan@vankov.eu</email>
+    <university>Saint Kliment Ohridski</university>
+    <specialty>Programming</specialty>
+    <faculty_number>9965522987</faculty_number>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <date>10-10-2012</date>
+        <grade>3</grade>
+      </exam>
+    <exam>
+        <name>Java</name>
+        <date>11-12-2012</date>
+        <grade>5</grade>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Milena</name>
+    <gender>Female</gender>
+    <birthdate>23-2-1984</birthdate>
+    <phone_number>+359877812342</phone_number>
+    <email>milena@qkimova.eu</email>
+    <university>Saint Kliment Ohridski</university>
+    <specialty>Programming</specialty>
+    <faculty_number>9965521237</faculty_number>
+    <exams>
+      <exam>
+        <name>C#</name>
+        <date>10-10-2012</date>
+        <grade>4</grade>
+      </exam>
+    <exam>
+        <name>Java</name>
+        <date>11-12-2012</date>
+        <grade>2</grade>
+      </exam>
+    </exams>
+  </student>
+</students>

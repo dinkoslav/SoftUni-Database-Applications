@@ -1,0 +1,12 @@
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\_4.ImportLeaguesAndTeamsFromXML.exe.config
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\_4.ImportLeaguesAndTeamsFromXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\_4.ImportLeaguesAndTeamsFromXML.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\EntityFramework.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\EntityFramework.SqlServer.dll
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\_1.EntityFrameworkMappingsDBFirst.pdb
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\EntityFramework.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\bin\Debug\EntityFramework.SqlServer.xml
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\obj\Debug\4. ImportLeaguesAndTeamsFromXML.csprojResolveAssemblyReference.cache
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\obj\Debug\_4.ImportLeaguesAndTeamsFromXML.exe
+D:\Homeworks\SoftUni\Database Applications\Exams\Football\Football\4. ImportLeaguesAndTeamsFromXML\obj\Debug\_4.ImportLeaguesAndTeamsFromXML.pdb
